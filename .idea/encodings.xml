@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pandas/compat/_optional.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/disRegression/CNN.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/disRegression/DNN.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/disRegression/DNN_improve1.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/disRegression/DNN_improve2.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/disRegression/DNN_improve3.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/disRegression/Gradient_Boosting_Regressor.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/disRegression/LinearRegression.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/disRegression/ML.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/disRegression/Random_Forest.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/disRegression/Stacking2.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/disRegression/Stacking3.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/disRegression/StackingRegressor.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/error/LSTM.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/error/ML.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/error/XGBoost.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/error/computeError_feature_BathProcessing.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/regressionNew/LSTM_dis.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/regressionNew/computeError.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ImprovePDR.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ImprovePDR_error.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/PDR_error.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/PDR_steps.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/computeLength.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/computeSteps.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/computeStepsLength.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/improvePDR_adaptiveStepJerk.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/improvePDR_adaptiveStepJerk_BatchProcessing.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.py" charset="UTF-8" />
+  </component>
+</project>
